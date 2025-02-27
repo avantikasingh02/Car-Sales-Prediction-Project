@@ -57,7 +57,7 @@ The ANN model is designed with the following structure:
 
 1. Clone the repository:
    
-   **git clone https://github.com/yourusername/car-sales-prediction.git**
+   **git clone https://github.com/yourusername/car-sales-prediction.git** <br>
    **cd car-sales-prediction**
 
 3. Install dependencies:
