@@ -57,13 +57,12 @@ The ANN model is designed with the following structure:
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/car-sales-prediction.git
-   
-   cd car-sales-prediction
+   **git clone https://github.com/yourusername/car-sales-prediction.git**
+   **cd car-sales-prediction**
 
 3. Install dependencies:
 
-   pip install -r requirements.txt
+   **pip install -r requirements.txt**
 
 4. Run the Jupyter Notebook or Python script.
 
